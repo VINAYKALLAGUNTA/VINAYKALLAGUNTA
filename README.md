@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I am Vinay Kallagunta
 
-<!--
-**VINAYKALLAGUNTA/VINAYKALLAGUNTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+A passionate Full-Stack developer from India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently a Student
+- 👯 I’m looking to collaborate on Full Stack Developers
+- 💬 Ask me about: HTML, CSS, JS, C, JAVA
+- 📫 Reach me: kallaguntavinay02@gmail.com
+
+Connect with me:
+
+
